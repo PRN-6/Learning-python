@@ -20,7 +20,7 @@ training_data = [
     ("what is", "calculation"),
     ("whats", "calculation"),
     ("how much is", "calculation")
-]
+]s
 
 # seperate text and labels
 
